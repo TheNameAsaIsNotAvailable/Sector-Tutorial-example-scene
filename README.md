@@ -10,7 +10,7 @@ CZ
 + V případě potřeby 'scene.4DS' lze také importovat zpět do 3DS Maxu pro referenci. (přes Pudingusův 4DS tools plugin)
 
 RU
-+ 
-+ 
++ TBD
++ TBD
 
 ~ AsaSK / Asa#0330
