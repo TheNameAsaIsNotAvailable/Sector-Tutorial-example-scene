@@ -13,4 +13,4 @@ RU (thanks to Serzh Melhior)
 + Этот пример заменяет миссию "Обучение". Рекомендуется сохранить все пользовательские/модифицированные файлы в каталоге 'Mafia\MISSIONS\TUTORIAL' (модели и текстуры не заменяются).
 + При желании 'scene.4DS' можно импортировать обратно в 3DS Max для справки (с помощью плагина 4DS tools от Pudingus).
 
-~ AsaSK / Asa#0330
+~ AsaSK / TheNameAsaIsNotAvailable
